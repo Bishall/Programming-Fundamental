@@ -1,7 +1,7 @@
 /*
 Student Name: Bishal KC
 Subject: Programming Fundamental
-Lab sheet: 06
+Lab sheet: 01
 Program: Wap to print arithmetic operation
 */
 
