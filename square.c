@@ -10,17 +10,17 @@ Date: 2016/11/28
 #include<conio.h>
 
 void main(){
-int a,sqr,squareroot;
+int a,sqr,sqrroot;
 
     printf("Enter the any number:");
     scanf("%d",&a);
 
 
     sqr=pow(a,2);
-    squareroot=sqrt(a);
+    sqrroot=sqrt(a);
 
     printf("The Square No. is:%d",sqr);
-    printf("The Square root of the no. is:%d",squareroot);
+    printf("The Square root of the no. is:%d",sqrroot);
 
 getch();
 return (0);
