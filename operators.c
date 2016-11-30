@@ -19,15 +19,13 @@ printf("Enter Second No.:");
 scanf("%d",&b);
 
 a+=b;
-a-=b;
-a*=b;
-a/=b;
-
 printf("+=%d\n",a);
+a-=b;
 printf("-=%d\n",a);
-printf("*=%d\n",a);
+a*=b;
+printf("-=%d\n",a);
+a/=b;
 printf("/=%d\n",a);
-
 getch();
 return(0);
 }
