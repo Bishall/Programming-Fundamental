@@ -2,7 +2,7 @@
 Student Name: Bishal K.C
 Roll no.:10
 Subject: Programming Fundamental
-Program:WAP to swap two numbers using temporary variable
+Program:WAP to check whether a number is divisible by
 Date: 2016/12/14
 */
 
